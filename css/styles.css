@@ -49,6 +49,10 @@ ul, ol {
     color: #2e2f42;
 }
 
+.nav-list-studio {
+    color: #2e2f42;
+}
+
 
 
 .address {
@@ -125,6 +129,7 @@ ul, ol {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .our-team-item {
