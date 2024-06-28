@@ -26,8 +26,7 @@ ul, ol {
     background-color: #fff;
 }
 
-
-.header-logo {
+.nav-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -37,9 +36,10 @@ ul, ol {
     color: #4d5ae5;
 }
 
-.header-logo-studio {
+.nav-logo-studio {
     color: #2e2f42;
 }
+
 
 .nav-list {
     font-weight: 500;
@@ -52,15 +52,17 @@ ul, ol {
 
 
 .address {
+
+    font-style: normal;
+}
+
+.address-list-item {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-style: normal;
 }
-
-
 
 .heading {
     background-color: #2e2f42;
@@ -116,19 +118,16 @@ ul, ol {
     background-color: #f4f4fd; 
 }
 
-.our-team-title {
+.our-team-item {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     color: #2e2f42;
-    text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    background-color: #ffffff
 }
 
-.our-team-list {
-    background-color: #ffffff;
-}
 
 .names {
     font-weight: 500;
