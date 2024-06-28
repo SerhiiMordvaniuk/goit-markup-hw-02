@@ -26,7 +26,8 @@ ul, ol {
     background-color: #fff;
 }
 
-.web {
+
+.header-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -36,13 +37,7 @@ ul, ol {
     color: #4d5ae5;
 }
 
-.studio {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
+.header-logo-studio {
     color: #2e2f42;
 }
 
@@ -176,25 +171,23 @@ ul, ol {
     color: #434455;
 }
 
+
+/*------------------FOOOTER---------------------*/
 .footer {
     background-color: #2e2f42;
 }
 
-.footer-web {
-font-weight: 700;
-font-size: 18px;
-line-height: 1.16667;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4d5ae5;
-}
-
-.footer-studio {
+.footer-logo {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.footer-logo-studio {
     color: #f4f4fd;
 }
 
